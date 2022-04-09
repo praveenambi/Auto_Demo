@@ -12,8 +12,7 @@ package com.leetcode;
  * not use the same element twice.
  * 
  * You can return the answer in any order.
- * 
- * 
+ *  this is for update 
  * 
  * Example 1:
  * 
